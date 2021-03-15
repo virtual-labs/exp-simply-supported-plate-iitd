@@ -1,7 +1,7 @@
 
 ### Introduction
 
-<img src=“images/th1.png”/>
+<img src="images/th1.png"/>
 
 This simulation experiment aim to study the modes of vibrations of square plate simply supported on all edges.<br>
 The simply supported plate is different from lumped masses (discrete system). In the discrete systems, stiffness, mass and damping are modelled as discrete properties.<br>
@@ -14,11 +14,11 @@ This computer model is based on distributed system. By using this online java pr
 In addition, there is an exercise for user at the end of programme. The user need to plot the graph between frequencies and length of plate keeping all others factors constant.
 For simply supported plate, the frequencies fn and the mode shapes Φ(x,y) are given by (Mukhopadhyay, 2006)
 
-<img src=“images/th2.png” height="122px" />
+<img src="images/th2.png" height="122px" />
 
 where the parameter D is given by
 
-<img src=“images/th3.png” height="55px"/>
+<img src="images/th3.png" height="55px"/>
 
 n and m are number of troughs/ crests in x and y directions respectively. Further,
 
@@ -28,4 +28,4 @@ E is Young's modulus of elasticity<br>
 
 User can get different modes of vibration of simply supported plate from this program, just in single click.
 
-<img src=“images/th4.png”/>
+<img src="images/th4.png"/>
