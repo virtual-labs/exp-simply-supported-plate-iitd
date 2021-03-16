@@ -1,5 +1,5 @@
 ### These steps will be followed for the experiment
-**PRE EXPRIMENT QUIZ QUESTIONS**
+**PRE EXPRIMENT TASK**
 <br>
 1) What is distributed system?<br>
 2) What is discrete system?<br>
@@ -43,7 +43,7 @@ plate?<br>
 
 
 
-**POST EXPRIMENT QUIZ QUESTIONS**
+**POST EXPRIMENT TASK**
 <br>
 1) Compute frequency for five different lengths of the plate, keeping all
 other parameter constant. Plot a graph between frequency and length.<br>
