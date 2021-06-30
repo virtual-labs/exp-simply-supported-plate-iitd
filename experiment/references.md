@@ -1,3 +1,5 @@
-Chopra, A. (2001), Dynamics of Structures, Prentice Hall of India limited, New Delhi.<br><br>
+1. Chopra, A. (2001), Dynamics of Structures, Prentice Hall of India limited, New Delhi.
 
-Mukhopadhyay, M. (2006), Structural Dynamics Vibrations and Systems, Ane Books India, New Delhi. Paz, M. (2004), Structural Dynamics: Theory and Computations, 2nd ed., CBS Publishers and Distributors, New Delhi.<br><br>
+2. Mukhopadhyay, M. (2006), Structural Dynamics Vibrations and Systems, Ane Books India, New Delhi.
+
+3. Paz, M. (2004), Structural Dynamics: Theory and Computations, 2nd ed., CBS Publishers and Distributors, New Delhi.<br><br>
