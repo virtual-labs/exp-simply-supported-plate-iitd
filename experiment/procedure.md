@@ -11,7 +11,7 @@ plate?<br>
 
 **Preparation of specimens:**
 
-1. Click Start Here button to start the experiment.
+1. Click start here button to start the experiment.
 
 <img src="images/pr1.png"/>
 
@@ -23,21 +23,21 @@ plate?<br>
 
 <img src="images/pr3.png"/>
 
-4. Click Calculate button to show Calculated frequency with animated graph.
+4. Click calculate button to show calculated frequency with animated graph.
 
 <img src="images/pr4.png"/>
 
 5. Repeat the same process for specimen 2 and specimen 3.
  
-6. Plot Graph Between Length & Calculated Frequency.
+6. Plot graph between Length & Calculated Frequency.
 
 <img src="images/pr5.png"/>
 
-7. Plot Graph Between Elasticity & Calculated Frequency.
+7. Plot graph between Elasticity & Calculated Frequency.
 
 <img src="images/pr6.png"/>
 
-8. Click Restart button to perform experiment again.
+8. Click restart button to perform experiment again.
 
 <img src="images/pr7.png"/><br>
 
