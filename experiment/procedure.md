@@ -1,5 +1,5 @@
 ### These steps will be followed for the experiment
-**PRE EXPRIMENT TASK**
+**PRE EXPERIMENT TASK**
 <br>
 1) What is distributed system?<br>
 2) What is discrete system?<br>
@@ -29,11 +29,11 @@ plate?<br>
 
 5. Repeat the same process for specimen 2 and specimen 3.
  
-6. Plot Graph Between Length & Calculated Frequenty.
+6. Plot Graph Between Length & Calculated Frequency.
 
 <img src="images/pr5.png"/>
 
-7. Plot Graph Between Elasticity & Calculated Frequenty.
+7. Plot Graph Between Elasticity & Calculated Frequency.
 
 <img src="images/pr6.png"/>
 
@@ -43,7 +43,7 @@ plate?<br>
 
 
 
-**POST EXPRIMENT TASK**
+**POST EXPERIMENT TASK**
 <br>
 1) Compute frequency for five different lengths of the plate, keeping all
 other parameter constant. Plot a graph between frequency and length.<br>
