@@ -11,7 +11,7 @@ plate?<br>
 
 **Preparation of specimens:**
 
-1. Click start here button to start the experiment.
+1. Click start experiment button to start the experiment.
 
 <img src="images/pr1.png"/>
 
