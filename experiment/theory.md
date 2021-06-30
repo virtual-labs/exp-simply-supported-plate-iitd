@@ -12,11 +12,15 @@ This computational model of a square plate simply supported on all edges is base
 
 For simply supported plate, the frequencies f<sub>n</sub> and the mode shapes Φ(x,y) are given by (Mukhopadhyay, 2006)
 
+
 <img src="images/th2.png" height="122px" />
+
 
 Where the parameter <i>D</i> is given by
 
+
 <img src="images/th3.png" height="63px"/>
+
 
 <i>n</i> and <i>m</i> are number of troughs/ crests in x and y directions respectively. Further, <i>L</i> is the length of plate, <i>E</i> is the Young's modulus of elasticity,<i>ρ</i> is the density, <i>t</i> is the thickness of the plate and <i>υ</i> is the Poisson’s ratio.
 
