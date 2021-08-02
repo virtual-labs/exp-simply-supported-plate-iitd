@@ -36,7 +36,22 @@
         var temp=0;
 
     </script>
-
+<!--Graph Online Link -->
+  <script src="https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.js"></script>
+  <link href="https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.css" rel="stylesheet" type="text/css" />
+  <link href='http://fonts.googleapis.com/css?family=Oxygen:300' rel='stylesheet' type='text/css'>
+  <meta charset="utf-8">
+<!--Graph Offline Link -->
+  <script src="graph_lib/chartist.min.js"></script>
+  <link href="graph_lib/chartist.min.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+.ct-chart .ct-series.ct-series-a .ct-line 
+{
+  stroke: steelblue;
+  stroke-width: 4px;
+  stroke-linecap: round;
+}
+</style>
 
 
 
@@ -48,7 +63,7 @@
 <tr><td>
     <div id="simscreen">
 
-        <div id="title"><h3>Modes of Vibrations of Plate</h3></div>
+        <div id="title"><h3>Modes of Vibration of Simply Supported Plate</h3></div>
 
 
 
@@ -64,8 +79,8 @@
 <div id="transwhite" style="width: 700px; margin-right: 50px; margin-left: 50px;">
             <p class="incanvas" style="font-size:15px;"><strong>Objective:</strong></p>
 
-            <p class="incanvas" style="font-size:14px;">To Study Modes of Vibrations of Plate.</p></br>
-
+            <p class="incanvas" style="font-size:14px;">To study the modes of vibrations of a square plate simply supported on all edges.</p></br>
+	    
             <p class="incanvas" style="font-size:15px;"><strong>Apparatus used:</strong></p>
 
             <p class="incanvas" style="font-size:14px;">Plate</p></br>
@@ -857,7 +872,7 @@
 
 <div id="transwhite" style="width: 700px; margin-right: 50px; margin-left: 50px; height: 485px;">
 
-<span style="position: absolute; left: 70px; top: 35px; font-size:20px; "><strong>Plot Graph Between Length & Calculated Frequenty</strong></span>
+<span style="position: absolute; left: 70px; top: 35px; font-size:20px; "><strong>Plot graph between Length & Calculated Frequency</strong></span>
 <span style="position: absolute; left: 102px; top: 10px; font-size:20px; "><strong></strong></span>
             
 
@@ -885,7 +900,7 @@
 </div>            
               
 </div>
-            <input class="incanvas" id="submit121" type="button" value="Plot Graph between F and L" style="position: absolute; left: 310px; top: 500px; width: 180px; padding-top: 5px; padding-bottom: 5px;" onclick="showgraph1()"/></br></br>
+            <input class="incanvas" id="submit121" type="button" value="Plot graph between F and L" style="position: absolute; left: 310px; top: 500px; width: 180px; padding-top: 5px; padding-bottom: 5px;" onclick="showgraph1()"/></br></br>
 
            
 
@@ -924,7 +939,7 @@
             <span class="circlebg">&nbsp;2&nbsp;</span>----->
 <div id="transwhite" style="width: 700px; margin-right: 50px; margin-left: 50px; height: 485px;">
 
-<span style="position: absolute; left: 70px; top: 35px; font-size:20px; "><strong>Plot Graph Between Elasticity & Calculated Frequenty</strong></span>
+<span style="position: absolute; left: 70px; top: 35px; font-size:20px; "><strong>Plot graph between Elasticity & Calculated Frequency</strong></span>
             
 
 
@@ -958,7 +973,7 @@
            
               
 
-            <input class="incanvas" id="submit131" type="button" value="Plot Graph between E and F" style="position: absolute; left: 310px; top: 500px; width: 200px; padding-top: 5px; padding-bottom: 5px;" onclick="showgraph2()"/></br></br>
+            <input class="incanvas" id="submit131" type="button" value="Plot graph between E and F" style="position: absolute; left: 310px; top: 500px; width: 200px; padding-top: 5px; padding-bottom: 5px;" onclick="showgraph2()"/></br></br>
 
            
 

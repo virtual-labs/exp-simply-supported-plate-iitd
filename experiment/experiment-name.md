@@ -1,1 +1,1 @@
-## Modes of Vibrations of Plate (Plate)
+## Modes of Vibration of Simply Supported Plate
