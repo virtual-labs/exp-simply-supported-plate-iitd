@@ -1,5 +1,5 @@
 
-### Introduction
+### Theory
 
 <center><img src="images/th1.png" height="400px"/></center>
 
@@ -16,7 +16,7 @@ For simply supported plate, the frequencies f<sub>n</sub> and the mode shapes Φ
 <img src="images/th2.png" height="122px" />
 
 
-Where the parameter <i>D</i> is given by
+where the parameter <i>D</i> is given by
 
 
 <img src="images/th3.png" height="63px"/>
