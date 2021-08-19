@@ -3,7 +3,7 @@
 
 <center><img src="images/th1.png" height="400px"/></center>
 
-This simulation experiment aim to study the modes of vibrations of square plate simply supported on all edges. The simply supported plate is different from a discrete system. Where the stiffness, mass and the damping are modelled as discrete properties. The mathematical models for discrete system are ordinary differential equations, which thereby render themselves quite conductive to numerical solution techniques. The alternative continuous method of modelling physical system, which is considered here, is based on the principle of distributed mass and stiffness characteristics. Such a system for which stiffness and mass are considered to be distributed properties (rather than discrete) is referred as distributed or continuous system.
+This simulation experiment aim to study the modes of vibrations of square plate simply supported on all edges. The simply supported plate is different from a discrete system. Where the stiffness, mass and the damping are modelled as discrete properties. The alternative continuous method of modelling physical system, which is considered here, is based on the principle of distributed mass and stiffness characteristics.
 
 The distributed systems are considered to be composed of infinite number of infinitesimal mass particles. Theoretically, they possess an infinite number of degrees of freedom (DOF). Only the first few modes are much significant. It is thus not necessary to study all of them.
 
