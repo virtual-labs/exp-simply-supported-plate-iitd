@@ -91,7 +91,7 @@
      const myQuestions = [{
             question: "1. This is a sample question:", ///// Write the question inside double quotes
             answers: {
-                a: "This is a sample answer A", ///// Write the option 1 inside double quotes
+                a: "This is a sample answer AA", ///// Write the option 1 inside double quotes
                 b: "This is a sample answer B",
                 c: "This is a sample answer C",
                 d: "This is a sample answer D",///// Write the option 2 inside double quotes
