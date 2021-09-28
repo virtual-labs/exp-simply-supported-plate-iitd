@@ -2,41 +2,42 @@
 	"question": "Q1. User Can get different modes of vibration of this plate from this program ?",
 	"answers": {
 		"a": "True",
-		"b": "False",
-		// "c": "text",
-		// "d": "All of the above"
+		"b": "False"
+	
 	},
 	"correctAnswer": "a"
 }, {
-	"question": "Q2. Title attribute can be used in ______________ tag ?",
-	"answers": {
-		"a": "p",
-		"b": "h1",
-		"c": "both",
-		"d": "none"
-	},
-	"correctAnswer": "c"
-}, {
-	"question": "Q3. Align attribute can be used with ‹p› and ‹h1› tags both.",
+	"question": "Q2. This experiment aim to study the modes of vibrations of square plate simply supported on all edges.",
 	"answers": {
 		"a": "True",
 		"b": "False"
+		
 	},
 	"correctAnswer": "a"
 }, {
-	"question": "Q4. Attributes are used within the closing tag of HTML element. State True or False.",
+	"question": "Q3. The alternative continuous method of modelling physical system  is based on the principle of distributed mass and _____.",
 	"answers": {
-		"a": "True",
-		"b": "False"
+		"a": "Discrete properties",
+		"b": "Discrete system",
+		"c": "Natural frequencies",
+		"d": "d.Stiffness characteristics"
+	},
+	"correctAnswer": "d"
+}, {
+	"question": "Q4. The distributed systems are considered to be composed of infinite number of",
+	"answers": {
+		"a": "Infinitesimal stiffness particles",
+		"b": "Infinitesimal mass particles",
+		"c": "Elasticity",
+		"d": "Poisson's ratio"
 	},
 	"correctAnswer": "b"
 }, {
-	"question": "Q5. We can change color of the text in web page through _____________ attribute.",
+	"question": "Q5. Only the first few modes are much significant",
 	"answers": {
-		"a": "changecolor",
-		"b": "text",
-		"c": "setcolor",
-		"d": "None"
+		"a": "True",
+		"b": "False"
+	
 	},
-	"correctAnswer": "b"
+	"correctAnswer": "a"
 }]
