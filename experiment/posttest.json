@@ -1,42 +1,42 @@
 [{
-	"question": "Q1. Select attributes which are used with ‹body› tag in html.",
+	"question": "Q1. The computational model of a square plate simply supported on all edges is based on",
 	"answers": {
-		"a": "bgcolor",
-		"b": "background",
-		"c": "text",
-		"d": "All of the above"
+		"a": "Continuous method",
+		"b": "Degrees of freedom",
+		"c": "Infinitesimal mass particles",
+		"d": "Continues system approach"
 	},
 	"correctAnswer": "d"
 }, {
-	"question": "Q2. Title attribute can be used in ______________ tag ?",
+	"question": "Q2. Square plate simply supported on",
 	"answers": {
-		"a": "p",
-		"b": "h1",
-		"c": "both",
-		"d": "none"
+		"a": "4 edges",
+		"b": "5 edges",
+		"c": "3 edges",
+		"d": "2 edges"
 	},
-	"correctAnswer": "c"
+	"correctAnswer": "a"
 }, {
-	"question": "Q3. Align attribute can be used with ‹p› and ‹h1› tags both.",
+	"question": "Q3. Relation between natural frequency and the Young’s modulus of elasticity cannot  be studied.",
+	"answers": {
+		"a": "True",
+		"b": "False"
+	},
+	"correctAnswer": "b"
+}, {
+	"question": "Q4. The distributed systems are considered to be composed of infinite number of Infinitesimal mass particles",
 	"answers": {
 		"a": "True",
 		"b": "False"
 	},
 	"correctAnswer": "a"
 }, {
-	"question": "Q4. Attributes are used within the closing tag of HTML element. State True or False.",
+	"question": "Q5. <i>&#956;</i> is the",
 	"answers": {
-		"a": "True",
-		"b": "False"
+		"a": "Density",
+		"b": "Young's modulus of elasticity",
+		"c": "Poisson's ratio",
+		"d": "Thickness of the plate"
 	},
-	"correctAnswer": "b"
-}, {
-	"question": "Q5. We can change color of the text in web page through _____________ attribute.",
-	"answers": {
-		"a": "changecolor",
-		"b": "text",
-		"c": "setcolor",
-		"d": "None"
-	},
-	"correctAnswer": "b"
+	"correctAnswer": "c"
 }]
