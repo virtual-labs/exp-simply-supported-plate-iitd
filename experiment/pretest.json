@@ -37,9 +37,9 @@
 	"question": "Q5. Which modelling is more accurate for a beam?",
 	"answers": {
 		"a": "Discrete system",
-		"a": "Continuous system",
-		"a": "Both a & b",
-		"b": "None of the above"
+		"b": "Continuous system",
+		"c": "Both a & b",
+		"d": "None of the above"
 		 
 	},
 	"correctAnswer": "c"
