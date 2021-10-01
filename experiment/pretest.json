@@ -1,43 +1,46 @@
 [{
-	"question": "Q1. User Can get different modes of vibration of this plate from this program ?",
+	"question": "Q1. For a continuous system, stiffness, mass, and damping are modelled as",
 	"answers": {
-		"a": "True",
-		"b": "False"
-	
-	},
-	"correctAnswer": "a"
-}, {
-	"question": "Q2. This experiment aim to study the modes of vibrations of square plate simply supported on all edges.",
-	"answers": {
-		"a": "True",
-		"b": "False"
-		
-	},
-	"correctAnswer": "a"
-}, {
-	"question": "Q3. The alternative continuous method of modelling physical system  is based on the principle of distributed mass and _____.",
-	"answers": {
-		"a": "Discrete properties",
-		"b": "Discrete system",
-		"c": "Natural frequencies",
-		"d": "d.Stiffness characteristics"
-	},
-	"correctAnswer": "d"
-}, {
-	"question": "Q4. The distributed systems are considered to be composed of infinite number of",
-	"answers": {
-		"a": "Infinitesimal stiffness particles",
-		"b": "Infinitesimal mass particles",
-		"c": "Elasticity",
-		"d": "Poisson's ratio"
+		"a": "Distributed properties",
+		"b": "Discrete properties",
+		"c": "Pointwise properties",
+		"d": "None of the above"
 	},
 	"correctAnswer": "b"
 }, {
-	"question": "Q5. Only the first few modes are much significant",
+	"question": "Q2. A continuous system is different from a discrete system.",
 	"answers": {
 		"a": "True",
 		"b": "False"
-	
 	},
 	"correctAnswer": "a"
+}, {
+	"question": "Q3. A continuous system has",
+	"answers": {
+		"a": "Finite DOF",
+		"b": "Infinite DOF",
+		"c": "Can't say",
+		"d": "None of the above"	 
+	},
+	"correctAnswer": "b"
+}, {
+	"question": "Q4. How many modes of a continuous system are important",
+	"answers": {
+		"a": "100-200",
+		"b": "10-25",
+		"c": "25-50",
+		"d": "3-5"
+	
+	},
+	"correctAnswer": "d"
+}, {
+	"question": "Q5. Which modelling is more accurate for a beam?",
+	"answers": {
+		"a": "Discrete system",
+		"a": "Continuous system",
+		"a": "Both a & b",
+		"b": "None of the above"
+		 
+	},
+	"correctAnswer": "c"
 }]
