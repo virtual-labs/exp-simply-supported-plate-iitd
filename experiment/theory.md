@@ -9,7 +9,7 @@ This simulation experiment aims to study the modes of vibrations of square plate
 The distributed systems are considered. Theoretically, they possess an infinite number of degrees of freedom (DOF). Only the first few modes are much significant. It is thus not necessary to study all of them.
 
 
-The computational model of a square plate simply supported on all edges is based on continues system approach. By using this online simulation, the student/user can easily determine the natural frequencies of plate as well as the corresponding mode shapes. In addition, there is an exercise for user. The user can study and plot a graph between the natural frequency and the length of the plate keeping all others factors constant. Similarly, relation between the natural frequency and the Young’s modulus of elasticity can be studied.
+The computational model of a square plate simply supported on all edges is based on continuous system approach. By using this online simulation, the student/user can easily determine the natural frequencies of plate as well as the corresponding mode shapes. In addition, there is an exercise for user. The user can study and plot a graph between the natural frequency and the length of the plate keeping all others factors constant. Similarly, relation between the natural frequency and the Young’s modulus of elasticity can be studied.
 
 For this plate, the frequencies f<sub>n</sub> and the mode shapes Φ(x,y) are given by (Mukhopadhyay, 2006)
 
