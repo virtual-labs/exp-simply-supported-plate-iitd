@@ -18,6 +18,6 @@ For this plate, the frequencies f<sub>n</sub> and the mode shapes Φ(x,y) are gi
 
 
 
-<i>n</i> and <i>m</i> are number of troughs/ crests in x and y directions respectively. Further, <i>L</i> is the length of plate, <i>E</i> is the Young's modulus of elasticity, <i>ρ</i> is the density, <i>t</i> is the thickness of the plate and <i>&#956;</i> is the Poisson's ratio.
+<i>n</i> and <i>m</i> are number of troughs/ crests in x and y directions respectively. Further, <i>L</i> is the length of plate, <i>E</i> is the Young's modulus of elasticity, <i>ρ</i> is the density, <i>t</i> is the thickness of the plate and &#957; is the Poisson's ratio.
 
 User can get different modes of vibration of this plate from this program, just in single click.
