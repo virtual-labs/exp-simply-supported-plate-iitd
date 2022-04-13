@@ -6,40 +6,94 @@
 3) What is degree of freedom?<br>
 4) What is the mathematical formula for mode shapes in a supported
 plate?<br>
-5) What is the mathematical formula for natural frequency in a supported
+5) What is the mathematical formula for natural frequency in a supported![pr1](https://user-images.githubusercontent.com/71967438/163149299-5cce79e5-d157-47e9-9c2f-76de59439c5c.png)
+
 plate?<br> -->
 
 **Preparation of specimens:**
 
 1. Click start experiment button to start the experiment.
 
-<img src="images/pr1.png"/>
+<img src="images/pr1.png">
 
 2. Select all the parameters.
 
-<img src="images/pr2.png"/>
+<img src="images/pr2.png">
 
 3. Enter details for Specimen 1.
 
-<img src="images/pr3.png"/>
+<img src="images/pr3.png">
 
-4. Click calculate button to show calculated frequency with animated graph.
+4. Enter details for Specimen 1.
 
-<img src="images/pr4.png"/>
+<img src="images/pr4.png">
 
-5. Repeat the same process for specimen 2 and specimen 3.
- 
-6. Plot graph between Length & Calculated Frequency.
+5. Enter details for Specimen 1.
 
-<img src="images/pr5.png"/>
+<img src="images/pr5.png">
 
-7. Plot graph between Elasticity & Calculated Frequency.
+Click calculate button to show calculated frequency with animated graph.
 
-<img src="images/pr6.png"/>
+<img src="images/pr6.png">
 
-8. Click restart button to perform experiment again.
+6. Select all the parameters.
 
-<img src="images/pr7.png"/><br>
+<img src="images/pr7.png">
+
+7. Enter details for Specimen 2.
+
+<img src="images/pr8.png">
+
+8. Enter details for Specimen 2.
+
+<img src="images/pr9.png">
+
+9. Enter details for Specimen 2.
+
+<img src="images/pr10.png">
+
+Click calculate button to show calculated frequency with animated graph.
+
+<img src="images/pr11.png">
+
+10. Select all the parameters.
+
+<img src="images/pr12.png">
+
+11. Enter details for Specimen 3.
+
+<img src="images/pr13.png">
+
+12. Enter details for Specimen 3.
+
+<img src="images/pr14.png">
+
+13. Enter details for Specimen 3.
+
+<img src="images/pr15.png">
+
+Click calculate button to show calculated frequency with animated graph.
+
+<img src="images/pr16.png">
+
+Plot graph between Elasticity & Calculated Frequency.
+
+<img src="images/pr17.png">
+
+Graph
+
+<img src="images/pr18.png">
+
+Plot graph between Elasticity & Calculated Frequency.
+
+<img src="images/pr19.png">
+
+Graph
+Thank You for performing Experiment, to repeat experiment click Restart button.
+<img src="images/pr20.png">
+
+
+<br>
 
 
 <!-- 
