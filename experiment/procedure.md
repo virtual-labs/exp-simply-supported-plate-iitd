@@ -89,7 +89,9 @@ Plot graph between Elasticity & Calculated Frequency.
 <img src="images/pr19.png">
 
 Graph
+
 Thank You for performing Experiment, to repeat experiment click Restart button.
+
 <img src="images/pr20.png">
 
 
