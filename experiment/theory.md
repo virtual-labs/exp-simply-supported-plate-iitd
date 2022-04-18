@@ -14,7 +14,7 @@ The computational model of a square plate simply supported on all edges is based
 For this plate, the frequencies f<sub>n</sub> and the mode shapes Φ(x,y) are given by (Mukhopadhyay, 2006)
 
 
-<img src="images/th2.png" height="250px" />
+<img src="images/th2.png" height="280px" />
 
 
 
